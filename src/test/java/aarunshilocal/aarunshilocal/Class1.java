@@ -20,5 +20,8 @@ public class Class1
 
     	System.out.println("3_B1stash");
 
+
+    	System.out.println("5_B2");
+
     }
 }
