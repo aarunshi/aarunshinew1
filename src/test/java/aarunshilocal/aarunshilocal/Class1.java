@@ -13,5 +13,6 @@ public class Class1
     public void func1()
     {
     	System.out.println("1");
+    	System.out.println("2_B");
     }
 }
