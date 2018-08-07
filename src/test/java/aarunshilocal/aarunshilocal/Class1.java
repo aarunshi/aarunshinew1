@@ -14,5 +14,6 @@ public class Class1
     {
     	System.out.println("1");
     	System.out.println("2_B");
+    	System.out.println("3_B1stash");
     }
 }
